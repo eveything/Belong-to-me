@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/eveything/Belong-to-me/issues"
   },
-  "homepage": "https://github.com/eveything/Belong-to-me#readme"
+  "homepage": "https://github.com/eveything/Belong-to-me#readme",
+  "dependencies": {
+    "chromedriver": "^2.31.0",
+    "selenium-webdriver": "^3.5.0"
+  }
 }
